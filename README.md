@@ -1,6 +1,7 @@
 # Election_Analysis
 Python
-Audting an election using Python and Visual Studio Code
+
+Auditing an election using Python and Visual Studio Code
 
 Election Results
 
