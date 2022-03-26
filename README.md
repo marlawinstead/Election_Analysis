@@ -41,4 +41,4 @@ The results are also shown in the following visual, which was obtained through t
 
 Election-Audit Summary
 
-
+Automating this congressional election using Python has proven to be very beneficial in providing the breakdown of votes by county and show voter turnout by county. However, with a few modifications, this code can also be expanded to provide other insight on elections. An example of this would be adding to the code to yield multiple winners. Elections that have multiple winners, such as a committee election that needs multiple members, could benefit from this script. Another example would be to utilize this script for national elections instead of local elections. This can be done by changing the code to show state results instead of county results.
